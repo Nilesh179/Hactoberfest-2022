@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main() {
-   // printf() displays the string inside quotation
-   printf("
-हैक्टोबर त्योहार");
+   printf("printf() displays the string inside quotation\n");
+   printf("In Spanish Hactoberfest is called : fiesta de octubre");
    return 0;
 }
