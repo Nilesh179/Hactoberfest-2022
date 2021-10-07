@@ -1,1 +1,2 @@
-# Add here 
+# Welcome to String repository :-
+# Add here
